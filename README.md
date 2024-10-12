@@ -43,8 +43,8 @@ https://drive.google.com/file/d/1JkjSPxVlKHWWP2zbHHVVL0-JLzCLSvXi/view?usp=drive
         - 60.85% furnished versus 39.15% unfurnished properties.
         - Dubai emerged as the city with the highest average rent at 0.2M AED.
 - Extracted critical metrics:
-        - Average rent: 147.93K AED
-        - Average rent per square foot: 88.06 AED
+        - Average rent: 98.00K AED
+        - Average rent per square foot: 71.43 AED
 
 ## Dashboard Features
 The Power BI dashboard includes:
