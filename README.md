@@ -40,8 +40,8 @@ https://drive.google.com/file/d/1JkjSPxVlKHWWP2zbHHVVL0-JLzCLSvXi/view?usp=drive
 ## Key Insights:-
 - Analyzed 74K+ rental listings across major UAE cities such as Dubai, Abu Dhabi, and Ras Al Khaimah.
 - Identified key trends:
-        - 60.85% furnished versus 39.15% unfurnished properties.
-        - Dubai emerged as the city with the highest average rent at 0.2M AED.
+        - 60.27% furnished versus 39.73% unfurnished properties.
+        - Dubai emerged as the city with the highest average rent at 145K AED.
 - Extracted critical metrics:
         - Average rent: 98.00K AED
         - Average rent per square foot: 71.43 AED
